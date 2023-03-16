@@ -52,7 +52,7 @@ Inception V3 — модель, основанная на нормализаци�
 
 Использовались следующие модели предобученных нейронных сетей: ResNet50, GoogLeNet, Inception V3. Для тестирования был создан датасет, содержащий 50 изображений. 
 
-![image](https://clck.ru/33nee6)
+![image](https://sun9-16.userapi.com/impg/viGPb2wSLZCQSlXHi_BKlHo6QOd9H27bWU_mBg/bzrVBEPMs1M.jpg?size=1395x574&quality=96&sign=426c3031be81fb7f059f599edbb898e4&type=album)
 
 Сравнение работы моделей осуществлялось на основе времени работы, использовании вычислительных ресурсов, метрик top-1 accuracy и top-1 accuracy. 
 Код для предсказания классов и оценки модели: 
@@ -86,13 +86,13 @@ def evaluate(model, weights):
 ## Результаты работы и тестирования системы
 
 Пример предсказаний ResNet50:
-![image](https://clck.ru/33neef)
+![image](https://sun9-29.userapi.com/impg/aZfUqrnR1jgCbWq1C1aYz89XQhI5zm9B-MxqOA/_rKulNsoYVY.jpg?size=1049x590&quality=96&sign=ccbf9daf187bef7d7f791add36b582ab&type=album)
 
 Пример предсказаний GoogLeNet:
-![image](https://clck.ru/33nefx)
+![image](https://sun9-46.userapi.com/impg/Dq307bFG0Z5wcs9-nb4hBiOtSIlzxcfpGz2eBg/x55aKVmYDZ4.jpg?size=1057x592&quality=96&sign=1bfe8e009bb4a7719f5c0f8d2b0b0d4e&type=album)
 
 Пример предсказаний Inception V3: 
-![image](https://clck.ru/33negx)
+![image](https://sun9-45.userapi.com/impg/DHtG8UpHGblsi07BYHlWtaMqZArjaMMxiDEZTg/ttylVl56sbo.jpg?size=1055x595&quality=96&sign=0d05b6f8b7f773fe8c7610c9bf332ccf&type=album)
 
 Сравнение:
 | Название     | Время работы, с | Потребление памяти, байт | Top-1 acc, % | Top-5 acc, % |
